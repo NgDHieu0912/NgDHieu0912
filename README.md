@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NgDHieu0912
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning VueJs
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me danghieu.work@gmail.com
 
